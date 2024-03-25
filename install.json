@@ -1,0 +1,23 @@
+{
+  "version": "v0.0.126",
+  "notes": "126",
+  "pub_date": "2024-03-25T06:32:26.631Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbXd3UFBITS81Z2Q2S3pPMXh5UHpkOFFNR2I3VHdzNVlKTC9GQlpGU2IwbUdlTTVqUzkwK1M4VWU5djZxWldHdWRjazE3SWNrczRBZm1IYWFtekI2VnVGSTBqamxBeUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExMzQ3NjQ3CWZpbGU6RmFsY29uIEZsb3cuYXBwLnRhci5negpBZjU4aTV1ekkyN0dTN3hKVVdpeHA0SzV5VG1nR05GdzRRKyt1YjdieGtody96anJ0QzFqTENWTTMweDlEczBndVVPTmVtQVRpa2FHL1dLWlgwbnpBZz09Cg==",
+      "url": "https://github.com/TestDesktopGithubActions/desktop_release/releases/download/v0.0.126/Falcon.Flow_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbXd3UFBITS81Z1dWWkd5RW5tbzY0dWNUR0RxdzVlM1VxK01jMnJkZ3lmM0FZZDBsWWM4RDlXYWRVV1JCQlRoZi9OQkcwVmpqTEJweHN2WVUxUklKcTFnOTNTTlNzK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExMzQ4MjcyCWZpbGU6RmFsY29uIEZsb3cuYXBwLnRhci5negptOHNNbGRMd0JBU1I4R3h3RHF4V296OFowbWhhaVg2Uk9ycmJRVXlvbk9ncnRTbmRzTUVYL0lOR2dITmcyd1VOdC9xT2dwbW5Ic1R1N2pzczc4dElDZz09Cg==",
+      "url": "https://github.com/TestDesktopGithubActions/desktop_release/releases/download/v0.0.126/Falcon.Flow_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbXd3UFBITS81Z1V5UkRra0Z6cUNZSkNhRTBKY01LdUd5R0dPWEk5dWZ3VHpJbWg2WStvU3NyNy9wRXJ1RTBFNmhPOGtBVzc5ek4waVJ5V3hXZmEra1N2bXJjSFhvWVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExMzQ3OTM2CWZpbGU6RmFsY29uIEZsb3dfMC4wLjEyNl94NjQtc2V0dXAubnNpcy56aXAKYzVSSlZTaDRDUXM5dDdZWnlXVStVbTNhL0h1b1lVS3d1M1RQTytvNmhoM0lEeUliclpjZXl4dmVjc0o5b3RsZTJGTzNXR3NMbVdhc1FLMitNZm9UQWc9PQo=",
+      "url": "https://github.com/TestDesktopGithubActions/desktop_release/releases/download/v0.0.126/Falcon.Flow_0.0.126_x64-setup.nsis.zip"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbXd3UFBITS81Z1g3MGZGeDBORStLRnFEcVFXR2t1MUVxS0pjcUNTVDlyeGU2NGt0SGEzQzZJL0hiNXdza2pzTU41R1lqNHpyR3VXR25hTG1rLzlVdFhrR2hJRWdLTXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExMzQ3OTM2CWZpbGU6RmFsY29uIEZsb3dfMC4wLjEyNl94NjRfZW4tVVMubXNpLnppcApuSWZkdzNNM3RXV2NqdWFXYXRzbTcxVXN4T3o0Ti8zcVBneG9GWU0wMGovOHZYNUJhbVNWcXJOS0dJZ05aUXZhblVSdFpjT1lLUXgvUzNkL3JtTjBDZz09Cg==",
+      "url": "https://github.com/TestDesktopGithubActions/desktop_release/releases/download/v0.0.126/Falcon.Flow_0.0.126_x64_en-US.msi.zip"
+    }
+  }
+}
