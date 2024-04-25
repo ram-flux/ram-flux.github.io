@@ -1,0 +1,23 @@
+{
+  "version": "v0.0.141",
+  "notes": "141",
+  "pub_date": "2024-04-25T07:47:23.885Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbXd3UFBITS81Z2JPZTc5VVRVSHVkNElQSFV6Ly80M3E4MTIvNy81bXhlNjlKQUdvWU1vdEhaQjhnN09LZHplQkdlaHM5azVIR0lSd0tDTmtYMVhqWGhMQy8vZDB0VkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MDMxMTgyCWZpbGU6RmFsY29uIEZsb3cuYXBwLnRhci5negp0NnczUHc2c3IwZmZKMXNvSUZFbnVhZ0J2bWM4dFZmVUFZMUFvZkVVQTJDdElRWVk0aGVQTjB6MmsvZElFRGtEK25oVmNVVGlMNGdRVzVaU2ZNTHFEZz09Cg==",
+      "url": "https://github.com/TestDesktopGithubActions/desktop_release/releases/download/v0.0.141/Falcon.Flow_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64-msi": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
